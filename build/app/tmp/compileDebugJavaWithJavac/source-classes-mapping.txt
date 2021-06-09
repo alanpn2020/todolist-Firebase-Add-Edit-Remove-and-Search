@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/alanpn/listatarefa/listadetarefa/MainActivity.java
+ com.alanpn.listatarefa.listadetarefa.MainActivity
+com/alanpn/listatarefa/listadetarefa/BuildConfig.java
+ com.alanpn.listatarefa.listadetarefa.BuildConfig
